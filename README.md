@@ -17,7 +17,7 @@ STEP-4: Else subtract the key from the plain text.
 STEP-5: Display the cipher text obtained above.
 
 ## PROGRAM:
-```
+```python
 #include <stdio.h>
 
 int main()
